@@ -8,7 +8,7 @@ External packages installed
 ## Running the app
 
 - `npm run start`
-- check [localhost:3000] (http:localhost:3000) to view the app
+- check [localhost:3000](http:localhost:3000) to view the app
 
 ## Building the app
 
