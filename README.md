@@ -1,4 +1,5 @@
-@maintainers: [Rohit](https://github.com/rohithandique), [Ganesh](https://github.com/sourceganesh),[Srinivas](https://github.com/SrinivasJoshi),[Prasanthi](https://github.com/Prasanthib1)
+@maintainers: [Rohit](https://github.com/rohithandique), [Ganesh](https://github.com/sourceganesh),[Srinivas](https://github.com/SrinivasJoshi),[Prasanthi](https://github.com/Prasanthib1),[Raghuram](https://github.com/FlamingSaint)
+
 # Repository for E-Cell NITK's E-Summit 2022 React App
 
 ## External packages installed
